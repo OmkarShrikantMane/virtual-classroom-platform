@@ -38,19 +38,6 @@ AWS-hosted-Virtual-Classroom-and-Learning-Platform/
 
 ---
 
-## Screen Shots
-
-### Home Page:
-![Home Page](https://drive.google.com/uc?export=view&id=1sBl4w-NyDVD9nvIy2aV10P1J9HCEyS1l)
-
-### Registration Page:
-![Registration Page](https://drive.google.com/uc?export=view&id=16kp8Leto7fludFmGJny8gs14olkp8QS_)
-
-### Login Page:
-![Login Page](https://drive.google.com/uc?export=view&id=1F2yvH4nqio_dg8v8D1vc1Q8sknttmOb9)
-
-### Content Page:
-![Content Page](https://drive.google.com/uc?export=view&id=1r4wsKWqOZUvhrvEG2axeuZrGIdHhnYtO)
 
 
 ---
@@ -98,6 +85,7 @@ AWS-hosted-Virtual-Classroom-and-Learning-Platform/
 This project showcases how web applications can be effectively deployed and scaled using AWS. With Flask at its core and AWS services powering the backend, it provides a modern, secure, and user-friendly experience for online learning platforms.
 
 ---
+
 
 
 
